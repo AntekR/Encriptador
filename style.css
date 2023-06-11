@@ -36,7 +36,7 @@ main{
     border: none;
     border-radius: 32px;
     background: #ffffff;
-    background-image: url("/Sprint_1/imagenes/Muñeco.png"), url("/Sprint_1/imagenes/Frame5.png");
+    background-image: url("/imagenes/Muñeco.png"), url("/imagenes/Frame5.png");
     background-repeat: no-repeat;
     background-position: 0px 100px , 0px 420px;
     background-size: contain;
