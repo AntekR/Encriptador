@@ -3,7 +3,7 @@
     font-family: 'Inter';
     font-weight: 400;
     font-size: 20px;
-    line-height: 48px;
+    line-height: 47px;
 }
 
 .logo {
@@ -56,20 +56,20 @@ main{
 
 
 .adver{
-    display: inline-flex;
+    display: flex;
     align-items: center;
+    justify-content:left;
     height: 50px;
-    
+    padding-bottom: 15px;
 }
 
 .informacion {
-    display: inline-block;
+    /*display: inline-flex;*/
     color: #495057;
     font-size: 11px;
-    margin-left: 2px;
-    
-    
+    margin-left: 7px;    
 }
+
 .botones {
     display: flex;
     place-content: center;
