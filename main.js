@@ -8,6 +8,17 @@ u  -> ufat
 
 */
 
+if (window.navigator.userAgentData) {
+  // Accede a la información del agente de usuario
+  const userAgentData = window.navigator.userAgentData;
+  // Realiza las operaciones necesarias con la información obtenida
+  console.log(userAgentData);
+} else {
+  // El navegador no admite navigator.userAgentData
+  // Considera usar otras técnicas de detección de características o proporcionar un mensaje de error o manejo alternativo
+  console.log("El navegador no admite navigator.userAgentData");
+}
+
 const textoArea = document.querySelector(".text-area");
 const mensaje = document.querySelector(".mensaje");
 const copia = document.querySelector(".copiar");
