@@ -8,6 +8,8 @@
 El encriptador de texto es un challenge que tiene como objetivo aplicar lo aprendido en la primera parte del programa Oracle One Next, en este proyecto se uso HTML5, CSS y JavaScript. 
 </p>
 
+### Github Pages: https://antekr.github.io/Encriptador/
+
 ## Funcionalidades
 - Toma el texto ingresado inicialmente por el usuario y dependiendo de la opción escogida por este lo encripta o desencripta. 
 - Permite copiar el texto ya sea encriptado o desencriptado en el portapapeles del equipo en el que esta funcionando está página.
