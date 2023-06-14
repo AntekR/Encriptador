@@ -56,15 +56,18 @@ main{
 
 
 .adver{
-    display: flex;
+    display: inline-flex;
     align-items: center;
     height: 50px;
+    
 }
 
 .informacion {
+    display: inline-block;
     color: #495057;
     font-size: 11px;
-    margin-left: 5px;
+    margin-left: 2px;
+    
     
 }
 .botones {
